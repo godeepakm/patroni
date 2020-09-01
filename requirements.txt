@@ -11,4 +11,4 @@ python-dateutil
 pysyncobj>=0.3.5
 psutil>=2.0.0
 cdiff
-requests==2.18.0
+requests==2.24.0
