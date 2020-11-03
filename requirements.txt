@@ -1,14 +1,6 @@
-urllib3[secure]>=1.19.1,!=1.21
-boto
-PyYAML
-six >= 1.7
-kazoo>=1.3.1
-python-etcd>=0.4.3,<0.5
-python-consul>=0.7.1
-click>=4.1
-prettytable>=0.7
-python-dateutil
-pysyncobj>=0.3.5
-psutil>=2.0.0
-cdiff
-requests==2.24.0
+cachetools==3.1.1
+certifi==2019.6.16
+chardet==3.0.4
+google-auth==1.6.3
+pluggy==0.13.1
+ptyprocess==0.6.0
